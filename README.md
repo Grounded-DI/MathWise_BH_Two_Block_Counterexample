@@ -26,3 +26,8 @@ The package addresses a specific two-block Gaussian construction and does not es
 Read the abstract and Sections 1–2 for the construction and claims, then Sections 4–8 for the threshold certificate, numerical margins, reproducibility manifest, scope, and attribution.
 
 Publisher: Grounded DI LLC
+
+
+## Curated collection
+
+This July 15, 2026 technical note is indexed in [MathWise Deterministic Replay Certificates](https://github.com/Grounded-DI/MathWise-Deterministic-Replay-Certificates/tree/main/bh-two-block-counterexample). This repository remains the canonical source; the later MPFR extension is indexed separately.
